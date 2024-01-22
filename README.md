@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kamlesh Pawar</h1>
-<h4 align="center">a Learning development an also an engineering students at PCCOER,Pune, see my <a href="https://www.linkedin.com/in/mr-kamlesh-pawar/" target="_blank">connect me</a> for more</h4>
+<h4 align="center">a Learning development an also an engineering students at PCCOER,Pune, <a href="https://www.linkedin.com/in/mr-kamlesh-pawar/" target="_blank">connect me</a> for more</h4>
 </div>
 
 <div align="center">
