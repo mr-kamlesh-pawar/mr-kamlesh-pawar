@@ -1,20 +1,32 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Kamlesh Pawar</h1>
+<h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Kamlesh Pawar</h1>
 <h4 align="center"> Learning development an also an engineering students at PCCOER,Pune, <a href="https://www.linkedin.com/in/mr-kamlesh-pawar/" target="_blank">connect me</a> for more</h4>
 </div>
 
 <div align="center">
-  <a href="#/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 </div>
 
-<br>
+
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mr-kamlesh-pawar&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right">  <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mr-kamlesh-pawar&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
@@ -46,3 +58,11 @@
 </p>
 
 <br>
+
+
+
+
+
+
+
+
