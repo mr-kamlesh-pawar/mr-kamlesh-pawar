@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Kamlesh Pawar</h1>
-<h4 align="center"> Learning development an also an engineering students at PCCOER,Pune, <a href="https://www.linkedin.com/in/mr-kamlesh-pawar/" target="_blank">connect me</a> for more</h4>
+<h4 align="center"> Full Stack Developer an also an engineering students at PCCOER,Pune, <a href="https://www.linkedin.com/in/mr-kamlesh-pawar/" target="_blank">connect me</a> for more</h4>
 </div>
 <div align="center">
 <picture>
@@ -28,7 +28,7 @@
     alt="adam-pw" /> 
   </p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m a Full Stack Developer passionate about building seamless web and mobile applications.
 
 - 📫 How to reach me **kamleshpawar5278@gmail.com**
 
